@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Module 13 Demo\bin\Debug\Module 13 Demo.dacpac
+C:\Users\hp\source\repos\Module 13 Demo\bin\Debug\Module_13_Demo.dll
+C:\Users\hp\source\repos\Module 13 Demo\bin\Debug\Module_13_Demo.pdb
+C:\Users\hp\source\repos\Module 13 Demo\obj\Debug\Module 13 Demo.sqlprojAssemblyReference.cache
+C:\Users\hp\source\repos\Module 13 Demo\obj\Debug\Module_13_Demo.dll
+C:\Users\hp\source\repos\Module 13 Demo\obj\Debug\Module_13_Demo.pdb

@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Module 13 Lab Exercise\bin\Debug\Module 13 Lab Exercise.dacpac
+C:\Users\hp\source\repos\Module 13 Lab Exercise\bin\Debug\Module_13_Lab_Exercise.dll
+C:\Users\hp\source\repos\Module 13 Lab Exercise\bin\Debug\Module_13_Lab_Exercise.pdb
+C:\Users\hp\source\repos\Module 13 Lab Exercise\obj\Debug\Module 13 Lab Exercise.sqlprojAssemblyReference.cache
+C:\Users\hp\source\repos\Module 13 Lab Exercise\obj\Debug\Module_13_Lab_Exercise.dll
+C:\Users\hp\source\repos\Module 13 Lab Exercise\obj\Debug\Module_13_Lab_Exercise.pdb
